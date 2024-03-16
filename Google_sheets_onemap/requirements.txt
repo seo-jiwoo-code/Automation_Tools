@@ -1,0 +1,4 @@
+google_api_python_client==2.102.0
+gspread==5.11.3
+protobuf==4.24.4
+Requests==2.31.0
