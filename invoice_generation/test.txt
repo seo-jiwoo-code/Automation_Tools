@@ -1,0 +1,15 @@
+Pending Invoices Detected: 
+*************************
+GSAE006 : Invoice Details: {'Invoice ID': 'GSAE006', 'Samples': [{'Test Param': 'Energy\nProtein\nTotal Fat\nSaturated Fat\nTrans Fat\nCholesterol\nCarbohydrate\nTotal Sugar\nDietary Fibre\nSodium', 'Lab ID': 'L021', 'Lab Test Category': 'Nutrition Information Panel (HPB Singapore) (package 1.1)', 'Method Reference Code (MRC)': 'M122', 'Cost': 20.0, 'Number of Samples': 2, 'Sample Labels': 'Chive Pocket', 'Sample Description': 'Frozen Oriental Food, XXXg'}, {'Test Param': 'Energy\nProtein\nTotal Fat\nSaturated Fat\nTrans Fat\nCholesterol\nCarbohydrate\nTotal Sugar\nDietary Fibre\nSodium', 'Lab ID': 'L021', 'Lab Test Category': 'Nutrition Information Panel (HPB Singapore) (package 1.1)', 'Method Reference Code (MRC)': '', 'Cost': 17.8, 'Number of Samples': 2, 'Sample Labels': 'Meatball', 'Sample Description': 'Frozen Oriental Food, XXXg'}, {'Test Param': 'Energy\nProtein\nTotal Fat\nSaturated Fat\nTrans Fat\nCholesterol\nCarbohydrate\nTotal Sugar\nDietary Fiber', 'Lab ID': 'L024', 'Lab Test Category': 'Nutrition Information Panel (HPB Singapore) (package 1.2)', 'Method Reference Code (MRC)': 'M140', 'Cost': 15.5, 'Number of Samples': 2, 'Sample Labels': 'Meatball', 'Sample Description': 'Chilled Fresh Produce, 400g'}], 'Shelf Life': [{'Header name': '3 Ambient Coffee', 'Shelf-Life Ref. No.': 'OMH0AA5-2-1', 'Type of Shelf-Life': 'Real-Time', 'No. of Test Dates': 3, 'Storage Temperature': 'Chilled (0-4 degC)', 'Testing Dates': '6 Months, 1 Year, 2 Years', 'No. of Test Parameters': 3, 'Test Parameters': '5RTE', 'No. of SKUs': 2, 'Detailed Test Parameters': '1. Bacillus Cereus\n 2. Coagulase-positive Staphylococcus Aureus\n 3. Clostridium Perfringens\n 4. Enterobacteriaceae\n 5. Escherichia Coli', 'Samples Mass Required': '2 x 1 x 250g', 'Acceleration': '3x', 'Turnaround Time': '1. 2 Months + 9 Days\n2. 4 Months + 9 Days\n3. 8 Months + 9 Days', 'Sub-sample Label(s)': 'HHAD', 'SKU Temp., Description & Mass': 'asss', 'Cost': 100}, {'Header name': '3 Ambient Coffee', 'Shelf-Life Ref. No.': 'OMH0AA5-2-1', 'Type of Shelf-Life': 'Real-Time', 'No. of Test Dates': 3, 'Storage Temperature': 'Frozen (below -18 degC)', 'Testing Dates': '6 Months, 1 Year, 2 Years', 'No. of Test Parameters': 3, 'Test Parameters': '5RTE', 'No. of SKUs': 2, 'Detailed Test Parameters': '1. Bacillus Cereus\n 2. Coagulase-positive Staphylococcus Aureus\n 3. Clostridium Perfringens\n 4. Enterobacteriaceae\n 5. Escherichia Coli', 'Samples Mass Required': '2 x 1 x 250g', 'Acceleration': '3x', 'Turnaround Time': '1. 2 Months + 9 Days\n2. 4 Months + 9 Days\n3. 8 Months + 9 Days', 'Sub-sample Label(s)': 'LOL', 'SKU Temp., Description & Mass': 'hi', 'Cost': 10.8}], 'Other Costs': {'Discount': ''}}
+GSAE006 : Created Docx
+File ID: 140j7dek9AOlQYRj_syGdXnKMJ32oqkT6
+GSAE006 : Uploaded Invoice:
+GSAE006 : Marked as Done
+GSAE006 : Remove File
+GSAE006 : Completed processing:
+No Pending Invoices
+No Pending Invoices
+No Pending Invoices
+No Pending Invoices
+No Pending Invoices
+No Pending Invoices
