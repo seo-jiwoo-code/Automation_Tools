@@ -1,2 +1,2 @@
 # Automation_Tools
-Just gonna dump all the automation tools that I found useful in life: Invoice generation, web scraping etc. 
+Dump of the automation tools: Invoice generation, web scraping etc. 
